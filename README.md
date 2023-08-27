@@ -11,7 +11,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Slimi1/Avoid-The-Obstacles/total) ![Issues](https://img.shields.io/github/issues/Slimi1/Avoid-The-Obstacles) 
+![Issues](https://img.shields.io/github/issues/Slimi1/Avoid-The-Obstacles) 
 
 ## About The Project
 
