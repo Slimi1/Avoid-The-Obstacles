@@ -24,7 +24,7 @@ This is a basic python game. If you hit an obstacle then you lose the game. The 
 
 ### Installation
 
-3. Install python packages
+1. Install python packages
 
 ```sh
 pip install pygame
